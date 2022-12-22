@@ -1,3 +1,6 @@
+https://habr.com/ru/post/320184
+https://habr.com/ru/post/320674
+
 # Codimension Python 3 IDE
 
 Essential links:
